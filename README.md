@@ -1,6 +1,6 @@
 # ICS.php
 
-ICS.php is a convenient script which generates iCalendar (.ics) files on the fly in PHP.
+ICS.php is a convenient script which generates iCalendar (.ics) files on the fly in PHP. This fork fixes issues with Thunderbird event import, supports Timezone, adds an alarm 15 minutes before the event day and fixes some issues regarding the event description.
 
 ## Basic usage
 
